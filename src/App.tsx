@@ -82,10 +82,10 @@ const certifications = [
 ];
 
 const gallery = [
-  { src: "/bridal-makeup-1.jpeg", alt: "Bridal makeup look before transformation" },
-  { src: "/bridal-makeup-2.jpeg", alt: "Bridal makeup final transformation result" },
-  { src: "/global-hair-colour.jpeg", alt: "Global hair colour service result" },
-  { src: "/hair-highlights.jpeg", alt: "Premium hair highlights styling result" },
+  { src: "bridal-makeup-1.jpeg", alt: "Bridal makeup look before transformation" },
+  { src: "bridal-makeup-2.jpeg", alt: "Bridal makeup final transformation result" },
+  { src: "global-hair-colour.jpeg", alt: "Global hair colour service result" },
+  { src: "hair-highlights.jpeg", alt: "Premium hair highlights styling result" },
 ];
 
 const mapLink = "https://maps.app.goo.gl/D2gPUiqRuirybc9o8";
