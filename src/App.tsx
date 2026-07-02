@@ -180,9 +180,9 @@ function BeforeAfterSlider() {
         <h3 className="mt-2 font-display text-2xl text-[#2f1d25]">Bridal Transformation Preview</h3>
         <p className="mt-2 text-sm text-[#62484f]">Slide to compare natural look with full bridal finish.</p>
         <div className="relative mt-5 h-[23rem] overflow-hidden rounded-[1.75rem]">
-          <img src="/bridal-makeup-1.jpeg" alt="Before bridal makeup" className="h-full w-full object-cover" />
+          <img src="bridal-makeup-1.jpeg" alt="Before bridal makeup" className="h-full w-full object-cover" />
           <div className="absolute inset-0 overflow-hidden" style={{ width: `${sliderValue}%` }}>
-            <img src="/bridal-makeup-2.jpeg" alt="After bridal makeup" className="h-full w-full object-cover" />
+            <img src="bridal-makeup-2.jpeg" alt="After bridal makeup" className="h-full w-full object-cover" />
           </div>
           <div className="absolute inset-y-0 w-0.5 bg-white/90" style={{ left: `calc(${sliderValue}% - 1px)` }} />
         </div>
@@ -205,7 +205,7 @@ function HomePage() {
     <>
       <section className="relative min-h-[92vh] overflow-hidden bg-[#190f14] px-4 pt-4 text-[#fff7f8]">
         <img
-          src="/bridal-makeup-2.jpeg"
+          src="bridal-makeup-2.jpeg"
           alt="Premium bridal makeup at Glamour Beauty Salon"
           className="absolute inset-0 h-full w-full object-cover opacity-45"
         />
